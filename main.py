@@ -15,5 +15,4 @@ pessoa = dados()
 print("Olá " + pessoa[0] + "!")
 print(
       "Você tem " + pessoa[1] + " anos, pertence ao sexo " + pessoa[2] + ", reside em " + pessoa[3] + ", estado de(o) "
-      + pessoa[4] + "."
-     )
+      + pessoa[4] + ".")
